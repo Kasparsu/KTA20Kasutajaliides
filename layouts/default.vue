@@ -8,7 +8,6 @@
   <v-app-bar app>
     <v-tabs>
       <v-tab nuxt-link to="/">Home</v-tab>
-      <v-tab nuxt-link to="/map">Map</v-tab>
     </v-tabs>
   </v-app-bar>
 
