@@ -8,6 +8,7 @@
   <v-app-bar app>
     <v-tabs>
       <v-tab nuxt-link to="/">Home</v-tab>
+      <v-tab nuxt-link to="/chat">Chat</v-tab>
     </v-tabs>
   </v-app-bar>
 
